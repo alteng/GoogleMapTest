@@ -239,7 +239,7 @@ public class MapsActivity extends FragmentActivity {
                 while (hasData) {};
 
                 locationStr = location.toString();
-                hasData = true;
+                hasData = true;//test
 
                 /*Intent i = new Intent(Intent.ACTION_SEND);
                 i.setType("message/rfc822");
